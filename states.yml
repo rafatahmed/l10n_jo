@@ -1,0 +1,34 @@
+#Jordan 
+
+- name: Amman
+  country_id: "400"
+  id: "400"
+  abbr: AMN
+- name: Irbid
+  country_id: "400"
+  id: "401"
+  abbr: IRB
+- name: Karak
+  country_id: "400"
+  id: "402"
+  abbr: KRK
+- name: Matabbah
+  country_id: "400"
+  id: "403"
+  abbr: MDB
+- name: Ajloun
+  country_id: "400"
+  id: "404"
+  abbr: AJL
+- name: Ar-Ramtha
+  country_id: "400"
+  id: "405"
+  abbr: RMT
+- name: Zarqa
+  country_id: "400"
+  id: "406"
+  abbr: ZRK
+- name: Mafraq
+  country_id: "400"
+  id: "407"
+  abbr: MFR
