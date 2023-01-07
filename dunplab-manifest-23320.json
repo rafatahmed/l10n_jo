@@ -5,7 +5,7 @@
     "short_name": "flahajo",
     "scope": "/",
     "display": "fullscreen",
-    "start_url": "https://flaha.org/",
+    "start_url": "https://jo.flaha.org/",
     "background_color": "#000000",
     "theme_color": "transparent",
     "description": "نبدأ من الألف إلى الياء. مع المزارعين والمزارعين على استعداد لرواية قصصهم بفخر وحق. مع الموزعين على استعداد لتوصيل الأشخاص بالمنتجات بطريقة عادلة وبصدق. مع المشترين الذين يعتقدون أن أفضل قرارات التسوق الأسبوعية يمكن ...",
@@ -114,6 +114,6 @@
             "type": "image/png"
         }
     ],
-    "url": "https://flaha.org/",
+    "url": "https://jo.flaha.org/",
     "screenshots": []
 }
